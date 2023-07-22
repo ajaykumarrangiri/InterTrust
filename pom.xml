@@ -1,0 +1,17 @@
+<dependencies>
+    <!-- Rest Assured -->
+    <dependency>
+        <groupId>io.rest-assured</groupId>
+        <artifactId>rest-assured</artifactId>
+        <version>4.3.3</version>
+        <scope>test</scope>
+    </dependency>
+
+    <!-- JSON support for Rest Assured -->
+    <dependency>
+        <groupId>io.rest-assured</groupId>
+        <artifactId>json-schema-validator</artifactId>
+        <version>4.3.3</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
